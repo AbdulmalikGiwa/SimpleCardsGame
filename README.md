@@ -1,0 +1,2 @@
+# SimpleCardsGame
+This is my first project using the Go programming language, A simple game of cards with functions to create a new deck of cards, shuffle deck, deal out cards from the deck created, save deck to a txt file, and create new deck from an existing file. This project includes tests to confirm the functionality of all important functions. Gained understanding on the basic features and data structures of the Go programming language. The beginning of my GoLang journey, watch out for much more amazing projects coming
